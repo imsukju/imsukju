@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 
-### Planning to Learn
+### Planning to Learn 
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
+I will probably start learning these languages from 2025.

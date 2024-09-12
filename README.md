@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 💻 Operating Systems
+### 💻 Operating Systems I Use
 - 🪟 **Windows**  
 - 🐧 **Linux** (Ubuntu preferred)  
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ Development Tools
+### 🛠️ Development Tools I Use
 ![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite%204-6DB33F?style=flat&logo=spring&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![ZSH](https://img.shields.io/badge/ZSH-4E9A06?style=flat&logo=gnu-bash&logoColor=white)

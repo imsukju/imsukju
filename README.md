@@ -16,15 +16,19 @@ Here are some ideas to get you started:
 -->
 
 ### ⚙️ Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=java&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![AOP Alliance](https://img.shields.io/badge/AOP%20Alliance-000000?style=flat)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
+![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=java&logoColor=white)  
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat&logo=java&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)  
+![AOP Alliance](https://img.shields.io/badge/AOP%20Alliance-000000?style=flat)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![SMTP](https://img.shields.io/badge/SMTP-2E2E2E?style=flat&logo=smtp&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
+이렇게 추가된 배지를 포함한 Tech Stack이 완성되었습니다!
 ---
 
 ### 💻 Operating Systems I Use

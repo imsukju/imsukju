@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ![SMTP](https://img.shields.io/badge/SMTP-2E2E2E?style=flat&logo=smtp&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
-이렇게 추가된 배지를 포함한 Tech Stack이 완성되었습니다!
 ---
 
 ### 💻 Operating Systems I Use
